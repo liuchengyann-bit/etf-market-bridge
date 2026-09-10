@@ -1,9 +1,82 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-09-10 14:42:56",
   "timezone": "Asia/Shanghai",
-  "overall_status": "NOT_EXECUTION_GRADE",
-  "execution_grade": false,
+  "overall_status": "VERIFIED",
+  "execution_grade": true,
   "source_policy": "Sina + Tencent dual-source cross-check",
-  "instruments": [],
-  "note": "等待 Cloudflare 首次定时快照；不得据此新增或撤销风险仓。"
+  "instruments": [
+    {
+      "code": "560390",
+      "name": "电网设备ETF易方达",
+      "type": "etf",
+      "price": 0.853,
+      "change_pct": -1.614763552479817,
+      "amount": 59029303,
+      "sina_time": "2026-09-10 14:42:55",
+      "tencent_time": "2026-09-10 14:42:52",
+      "verification": "LIVE_VERIFIED",
+      "reason": "双源一致且盘中时间戳在120秒内"
+    },
+    {
+      "code": "516350",
+      "name": "芯片ETF易方达",
+      "type": "etf",
+      "price": 1.541,
+      "change_pct": -0.5806451612903303,
+      "amount": 69518433,
+      "sina_time": "2026-09-10 14:42:55",
+      "tencent_time": "2026-09-10 14:42:52",
+      "verification": "LIVE_VERIFIED",
+      "reason": "双源一致且盘中时间戳在120秒内"
+    },
+    {
+      "code": "516080",
+      "name": "创新药ETF易方达",
+      "type": "etf",
+      "price": 0.657,
+      "change_pct": -1.6467065868263489,
+      "amount": 141759481,
+      "sina_time": "2026-09-10 14:42:55",
+      "tencent_time": "2026-09-10 14:42:52",
+      "verification": "LIVE_VERIFIED",
+      "reason": "双源一致且盘中时间戳在120秒内"
+    },
+    {
+      "code": "563360",
+      "name": "A500ETF华泰柏瑞",
+      "type": "etf",
+      "price": 1.269,
+      "change_pct": -0.39246467817897296,
+      "amount": 3813874575,
+      "sina_time": "2026-09-10 14:42:53",
+      "tencent_time": "2026-09-10 14:42:53",
+      "verification": "LIVE_VERIFIED",
+      "reason": "双源一致且盘中时间戳在120秒内"
+    },
+    {
+      "code": "000001",
+      "name": "上证指数",
+      "type": "index",
+      "price": 3938.3949,
+      "change_pct": -0.33182025651582664,
+      "amount": 714684630910,
+      "sina_time": "2026-09-10 14:42:53",
+      "tencent_time": "2026-09-10 14:42:54",
+      "verification": "LIVE_VERIFIED",
+      "reason": "双源一致且盘中时间戳在120秒内"
+    },
+    {
+      "code": "399006",
+      "name": "创业板指",
+      "type": "index",
+      "price": 3344.024,
+      "change_pct": -0.32623252256578716,
+      "amount": 345811355664.09,
+      "sina_time": "2026-09-10 14:42:54",
+      "tencent_time": "2026-09-10 14:42:54",
+      "verification": "LIVE_VERIFIED",
+      "reason": "双源一致且盘中时间戳在120秒内"
+    }
+  ],
+  "note": "可作为行情事实输入；投资判断仍需结合风险与交易规则。"
 }
