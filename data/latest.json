@@ -1,0 +1,9 @@
+{
+  "generated_at": null,
+  "timezone": "Asia/Shanghai",
+  "overall_status": "NOT_EXECUTION_GRADE",
+  "execution_grade": false,
+  "source_policy": "Sina + Tencent dual-source cross-check",
+  "instruments": [],
+  "note": "等待 Cloudflare 首次定时快照；不得据此新增或撤销风险仓。"
+}
