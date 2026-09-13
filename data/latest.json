@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13 14:42:21",
+  "generated_at": "2026-09-13 14:43:21",
   "timezone": "Asia/Shanghai",
   "overall_status": "NOT_EXECUTION_GRADE",
   "execution_grade": false,
@@ -15,7 +15,7 @@
       "change_pct": -0.23501762632197437,
       "amount": 89489373,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:30",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -27,7 +27,7 @@
       "change_pct": -1.4285714285714297,
       "amount": 119160876,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:59",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -39,7 +39,7 @@
       "change_pct": -2.1341463414634165,
       "amount": 175226103,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:49",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -51,7 +51,7 @@
       "change_pct": -1.1041009463722407,
       "amount": 4759814623,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:38",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -63,7 +63,7 @@
       "change_pct": -4.04814004376368,
       "amount": 1141675458,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:47",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -75,7 +75,7 @@
       "change_pct": -1.5413409666409839,
       "amount": 5504843797,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:44",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -87,7 +87,7 @@
       "change_pct": -0.8230452674897175,
       "amount": 4409407029,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:36",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -99,7 +99,7 @@
       "change_pct": -1.6920692327563966,
       "amount": 4318258766,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:53",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -111,7 +111,7 @@
       "change_pct": -1.2055455093429788,
       "amount": 8083414412,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:53",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -135,7 +135,7 @@
       "change_pct": -1.7123287671232816,
       "amount": 420143655,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:52",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -147,7 +147,7 @@
       "change_pct": -0.7033997655334121,
       "amount": 905949827,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:32",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -159,7 +159,7 @@
       "change_pct": -1.8018018018018032,
       "amount": 431333209,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:36",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -171,7 +171,7 @@
       "change_pct": -1.4354066985645948,
       "amount": 424725424,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:45",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -183,7 +183,7 @@
       "change_pct": -0.36429872495446297,
       "amount": 2125806238,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:45",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -195,7 +195,7 @@
       "change_pct": -0.8111762054979629,
       "amount": 332371204,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:45",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -207,7 +207,7 @@
       "change_pct": -0.5605381165919329,
       "amount": 185911741,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:53",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -219,7 +219,7 @@
       "change_pct": -0.027623331090424398,
       "amount": 2728766463,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:51",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -231,7 +231,7 @@
       "change_pct": 0.01091453915838552,
       "amount": 24945931841,
       "sina_time": "2026-09-11 15:34:59",
-      "tencent_time": "2026-09-11 16:14:35",
+      "tencent_time": "2026-09-11 16:15:00",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
@@ -243,7 +243,7 @@
       "change_pct": -1.176620517529013,
       "amount": 958186336970,
       "sina_time": "2026-09-11 15:43:32",
-      "tencent_time": "2026-09-11 16:14:33",
+      "tencent_time": "2026-09-11 16:14:03",
       "verification": "STALE",
       "reason": "不是可确认的盘中实时或当日收盘数据"
     },
