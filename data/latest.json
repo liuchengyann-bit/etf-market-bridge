@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 18:40:21",
+  "generated_at": "2026-10-06 14:42:21",
   "timezone": "Asia/Shanghai",
   "overall_status": "NOT_EXECUTION_GRADE",
   "execution_grade": false,
@@ -16,8 +16,8 @@
       "amount": 41392412,
       "sina_time": "2026-09-30 15:00:00",
       "tencent_time": "2026-09-30 16:14:38",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "600519",
@@ -28,8 +28,8 @@
       "amount": 4797246636,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:58",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "560390",
@@ -40,8 +40,8 @@
       "amount": 75862984,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:47",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "516350",
@@ -52,8 +52,8 @@
       "amount": 108429703,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:58",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "516080",
@@ -64,8 +64,8 @@
       "amount": 241945201,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:47",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "563360",
@@ -76,8 +76,8 @@
       "amount": 3393506435,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:56",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "159142",
@@ -88,8 +88,8 @@
       "amount": 52795774.7,
       "sina_time": "2026-09-30 16:29:15",
       "tencent_time": "2026-09-30 16:14:15",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "511360",
@@ -100,8 +100,8 @@
       "amount": 77492885811,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:55",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "512400",
@@ -112,8 +112,8 @@
       "amount": 336196291,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:49",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "518880",
@@ -124,8 +124,8 @@
       "amount": 2695333557,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:35",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "510300",
@@ -136,8 +136,8 @@
       "amount": 2196229027,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:43",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "510500",
@@ -148,8 +148,8 @@
       "amount": 1669869400,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:50",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "588000",
@@ -160,8 +160,8 @@
       "amount": 6849531379,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:49",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "159915",
@@ -172,8 +172,8 @@
       "amount": 4142874902.909,
       "sina_time": "2026-09-30 16:29:15",
       "tencent_time": "2026-09-30 16:14:21",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "515180",
@@ -184,8 +184,8 @@
       "amount": 388330671,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:59",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "512800",
@@ -196,8 +196,8 @@
       "amount": 724861050,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:15:00",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "512170",
@@ -208,8 +208,8 @@
       "amount": 571038434,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:58",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "512690",
@@ -220,8 +220,8 @@
       "amount": 581992995,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:42",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "513180",
@@ -232,8 +232,8 @@
       "amount": 1397177906,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:38",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "513100",
@@ -244,8 +244,8 @@
       "amount": 597044697,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:43",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "513500",
@@ -256,8 +256,8 @@
       "amount": 268249988,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:35",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "511010",
@@ -268,8 +268,8 @@
       "amount": 5253821760,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:59",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "511880",
@@ -280,8 +280,8 @@
       "amount": 33821658622,
       "sina_time": "2026-09-30 15:34:59",
       "tencent_time": "2026-09-30 16:14:50",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "000001",
@@ -292,8 +292,8 @@
       "amount": 679398992445,
       "sina_time": "2026-09-30 16:19:58",
       "tencent_time": "2026-09-30 16:15:00",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     },
     {
       "code": "399006",
@@ -304,8 +304,8 @@
       "amount": 366238724561.2,
       "sina_time": "2026-09-30 15:00:03",
       "tencent_time": "2026-09-30 16:14:09",
-      "verification": "STALE",
-      "reason": "不是可确认的盘中实时或当日收盘数据"
+      "verification": "CONFLICT",
+      "reason": "盘中双源时间戳不一致"
     }
   ],
   "note": "实时行情不可确认，不得据此新增或撤销风险仓。"
